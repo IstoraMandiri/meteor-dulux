@@ -9,9 +9,9 @@ Package.describe({
 Package.onUse(function(api) {
   api.versionsFrom('1.2.1');
   api.use([
-    'tap:meteorstrap',
-    'orbit:media',
-    'hitchcott:ez-web-app',
+    'tap:meteorstrap@1.0.0',
+    'orbit:media@0.1.0',
+    'hitchcott:ez-web-app@0.0.2',
     'templating',
     'coffeescript'
   ]);
