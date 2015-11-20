@@ -32,7 +32,7 @@ Dulux.allow
 
 (or you can set more granular permissions by referring to the individual packages)
 
-For Meteorstrap admin UI i18n you must add `tap:meteorstrap-bootswatch` to your project's `packages` file.
+For Meteorstrap Admin UI i18n you must add `tap:bootstrap-magic` to your project's `packages` file.
 
 ## License
 
